@@ -209,6 +209,3 @@ ships = {"Destroyer":2,
         "Submarine":3,
         "Battleship":4,
         "Carrier":5}
-bot = create_bot()
-display(bot)
-
